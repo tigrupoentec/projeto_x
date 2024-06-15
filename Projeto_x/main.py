@@ -1,0 +1,1 @@
+print("jornada luciado dw")
